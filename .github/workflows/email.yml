@@ -29,4 +29,4 @@ jobs:
         aws ses send-email \
           --from "mincoding@naver.com" \
           --destination "ToAddresses=sejin.choi@mincoding.co.kr" \
-          --message "Subject={Data=미니언짱},Body={Text={Data=미니언즈좋아요}}"
+          --message "Subject={Data=권수현},Body={Text={Data=미니언즈3 8/6대개봉}}"
